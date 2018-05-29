@@ -8,8 +8,8 @@ author: "panxw"
 email: winfirm#163.com
 name: "Panxw's Blog"
 baseurl: /
-url: http://www.panxw.com
-domain: www.panxw.com
+url: https://robot1d59cc306.github.io/
+domain: robot1d59cc306.github.io
 
 all_categories: [
   ["android", "Android开发","/android/index.html"], 
